@@ -1,4 +1,4 @@
-# GoGreen Insurance – Cloud Infrastructure Architecture Case Study
+# GoGreen Insurance – AWS Cloud Infrastructure Architecture Case Study
 
 ## Overview
 This repository contains a cloud architecture case study for **GoGreen Insurance Company**, designed as part of the *Cloud Infrastructure and Services* module. The objective was to modernize a legacy hosting environment by designing a secure, highly available, and cost-conscious AWS-based architecture that meets strict performance and recovery requirements.
