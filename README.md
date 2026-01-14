@@ -40,7 +40,8 @@ A warm standby disaster recovery setup is implemented in a secondary region to b
 - Fast scale-up capability during regional failure
 
 ## Files in This Repository
-- `GoGreen Case Study_TP088624.pdf` – Final architecture presentation
+- `Case Study requirements.pdf` - Company requirements pdf
+- `GoGreen Case Study_TP088624.pdf` – Proposed solution pdf
 - `README.md` – Project overview and architectural explanation
 
 ## Author
